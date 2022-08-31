@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">Opa, falaí!👋Eu sou o <a href="https://github.com/saamukai" target="blank">
+saamukai</a></h1>
+<h3 align="center"> Novo e pequeno aprendiz de tecnologias e computação do Brasil &#127463;&#127479</h3>
 
-<!--
-**saamukai/saamukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saamukai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Here are some ideas to get you started:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Um pouco de mim</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a target="_blank" align="center">
+<img align="right" top="120" height="150" width="240" alt="GIF" src="https://64.media.tumblr.com/tumblr_m8wnqaK0Td1rtyx3fo1_r1_500.gifv">
+</a>
+<h5 align="left">- 🖥️ Cursando Graduação em Engenharia da Computação, na Universidade Tecnológica Federal do Paraná</h5>
+<h5 align="left">- 📚 Estudando programação no Biopark Educação, no Parque Cientifico e Tecnológico Biopark, Paraná</h5> 
+<h5 align="left">- 📧 Contate-me pelo email: contato.samukajpc@gmail.com</h5>
+<h5 align="left">- 😬 Curioso, Comunicativo e Amigável</h5>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas</b>
+
+<p align="left"> 
+<a href="" target="_blank"> <img src="https://images.vexels.com/media/users/3/166178/isolated/lists/2648f3d45ee0737da23d4c9e2aef4c4c-linguagem-de-programacao-c-plana.png" alt="c" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="mysql" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" alt="illustrator" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2844/2844305.png" alt="coreldraw" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888883.png" alt="word" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888874.png" alt="powerpoint" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968523.png" alt="gdrive" width="40" height="40"/> </a>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Atividade</b>
+<div align="left">
+  <a href="https://github.com/saamukai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&theme=dragon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamukai&layout=compact&langs_count=7&theme=dragon"/>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Me encontre nas redes sociais</b>
+<p align="left">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/samuel-jonathan-47689423b/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/saamukai">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/saamukai">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/saamukai">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/saamukai">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+</p>
