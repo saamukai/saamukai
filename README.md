@@ -1,6 +1,6 @@
 <h1 align="center">Opa, falaí!👋Eu sou o <a href="https://github.com/saamukai" target="blank">
 saamukai</a></h1>
-<h3 align="center"> Novo e pequeno aprendiz de tecnologias e computação do Brasil &#127463;&#127479</h3>
+<h3 align="center"> Novo e pequeno aprendiz de tecnologias e computação &#127463;&#127479</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamukai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -25,9 +25,6 @@ saamukai</a></h1>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" alt="illustrator" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2844/2844305.png" alt="coreldraw" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888883.png" alt="word" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888874.png" alt="powerpoint" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968523.png" alt="gdrive" width="40" height="40"/> </a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Atividade</b>
 <div align="left">
