@@ -19,8 +19,8 @@ saamukai</a></h1>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas</b>
 
 <p align="left"> 
-<a href="" target="_blank"> <img src="https://images.vexels.com/media/users/3/166178/isolated/lists/2648f3d45ee0737da23d4c9e2aef4c4c-linguagem-de-programacao-c-plana.png" alt="c" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="mysql" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="c" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" alt="mysql" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" alt="illustrator" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2844/2844305.png" alt="coreldraw" width="40" height="40"/> </a>
