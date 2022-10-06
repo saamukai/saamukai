@@ -1,6 +1,6 @@
 <h1 align="center">Opa, falaí!👋Eu sou o <a href="https://github.com/saamukai" target="blank">
 saamukai</a></h1>
-<h3 align="center"> Novo e pequeno aprendiz de tecnologias e computação &#127463;&#127479</h3>
+<h3 align="center"> Aprendiz inciante de tecnologias e computação &#127463;&#127479</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamukai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -31,6 +31,12 @@ saamukai</a></h1>
   <a href="https://github.com/saamukai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&theme=dragon&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saamukai&" alt="saamukai"/>
+	  
+	  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saamukai&show_icons=true&locale=en&layout=compact" alt="saamukai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&locale=en" alt="saamukai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saamukai&" alt="saamukai" /></p>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Me encontre nas redes sociais</b>
