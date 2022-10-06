@@ -19,8 +19,8 @@ saamukai</a></h1>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas</b>
 
 <p align="left"> 
-<a href="" target="_blank"> <img src="https://img3.gratispng.com/dy/ab38afd1f96adb14e9e32cd90c730725/L0KzQYm3VMI3N5xnfZH0aYP2gLBuTfxwb5Cye58AYXW1QYHpg8hjbJNnSZCDMES2RYOAV8E2OmU8TqYDNkC4R4OCTwBvbz==/kisspng-logo-c-5ae210bc8bdbb1.8043527715247648605729.png" alt="c" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" alt="mysql" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" alt="illustrator" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2844/2844305.png" alt="coreldraw" width="40" height="40"/> </a>
@@ -30,6 +30,7 @@ saamukai</a></h1>
 <div align="left">
   <a href="https://github.com/saamukai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&theme=dragon&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saamukai&" alt="saamukai"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Me encontre nas redes sociais</b>
