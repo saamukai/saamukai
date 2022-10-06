@@ -30,7 +30,7 @@ saamukai</a></h1>
 <div align="left">
   <a href="https://github.com/saamukai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&theme=dragon&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saamukai&" alt="saamukai"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saamukai&" alt="saamukai"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Me encontre nas redes sociais</b>
