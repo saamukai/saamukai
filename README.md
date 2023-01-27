@@ -11,7 +11,6 @@ saamukai</a></h1>
 <img align="right" top="120" height="150" width="240" alt="GIF" src="https://64.media.tumblr.com/tumblr_m8wnqaK0Td1rtyx3fo1_r1_500.gifv">
 </a>
 <h5 align="left">- 🖥️ Cursando Graduação em Engenharia da Computação, na Universidade Tecnológica Federal do Paraná</h5>
-<h5 align="left">- 📚 Estudando programação no Biopark Educação, no Parque Cientifico e Tecnológico Biopark, Paraná</h5> 
 <h5 align="left">- 📧 Contate-me pelo email: contato.samukajpc@gmail.com</h5>
 <h5 align="left">- 😬 Curioso, Comunicativo e Amigável</h5>
 </p>
