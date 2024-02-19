@@ -1,10 +1,9 @@
-<h1 align="center">Opa!👋Eu sou o <a href="https://github.com/saamukai" target="blank">
-Samuel</a></h1>
-<h3 align="center"> Aprendiz iniciante de tecnologias e computação &#127463;&#127479</h3>
+<h1 align="center">Whats Up! 👋 I am<a href="https://github.com/saamukai" target="blank"> Samuel</a></h1>
+<h3 align="center">A technology and computing learner &#127463;&#127479</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamukai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Um pouco de mim</b>
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Um pouco de mim</b>
 
 <p align="center">
 <a target="_blank" align="center">
@@ -13,9 +12,9 @@ Samuel</a></h1>
 <h4 align="left">- 🖥️ Cursando Graduação em Engenharia da Computação, na Universidade Tecnológica Federal do Paraná</h4>
 <h4 align="left">- 📧 Contate-me pelo email: contato.samukajpc@gmail.com</h4>
 <h4 align="left">- 😬 Curioso, Comunicativo e Amigável</h4>
-</p>
+</p> -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Aprendendo</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
 
 <p align="left"> 
 
@@ -31,12 +30,12 @@ Samuel</a></h1>
 <a target="_blank" rel="noreferrer"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" width="30" height="30"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Dsitribuições Linux" width="30" height="30"/> </a> 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Ferramentas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Other Tools</b>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="30" height="30"/> </a>
 <a target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" title="Adobe Illustrator" width="30" height="30"/></a>
 <a target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" title="Pacote Office/Excel" width="30" height="30"/> </a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Atividade</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Activity</b>
 <div align="center">
 <img height="220" src="https://github-readme-stats.vercel.app/api?username=saamukai&show_icons=true&theme=merko"/>
 <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=saamukai&show_icons=true&theme=merko"/>
