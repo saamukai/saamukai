@@ -1,37 +1,39 @@
 <h1 align="center">Whats Up! 👋 I am<a href="https://github.com/saamukai" target="blank"> Samuel</a></h1>
 <h3 align="center">A technology and computing learner &#127463;&#127479</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saamukai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Um pouco de mim</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>About me</b>
 
 <p align="center">
 <a target="_blank" align="center">
 <img align="right" top="120" height="150" width="240" alt="GIF" src="https://64.media.tumblr.com/tumblr_m8wnqaK0Td1rtyx3fo1_r1_500.gifv">
 </a>
-<h4 align="left">- 🖥️ Cursando Graduação em Engenharia da Computação, na Universidade Tecnológica Federal do Paraná</h4>
-<h4 align="left">- 📧 Contate-me pelo email: contato.samukajpc@gmail.com</h4>
-<h4 align="left">- 😬 Curioso, Comunicativo e Amigável</h4>
-</p> -->
+<h4 align="left">- 🖥️ Learning</h4>
+<h4 align="left">- 📧 Contact me by email: contato.samukajpc@gmail.com</h4>
+<h4 align="left">- 😬 Curious, Communicative and Friendly</h4>
+</p> 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Learning</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Learning</b>
 
 <p align="left"> 
 
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="Linguagem C" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="30" height="30"/></a>
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="30" height="30"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="30" height="30"/></a> 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3" width="30" height="30"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django Framework" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="30" height="30"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Dsitribuições Linux" width="30" height="30"/> </a> 
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=php" title="PHP" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=python" title="Python3" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=js" title="JS" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=css" title="CSS" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=html" title="HTML" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=git" title="Git" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="30" height="30"/></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Other Tools</b>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="30" height="30"/> </a>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Other Tools</b>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=discord" title="discord" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=bots" title="Bots" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" width="30" height="30"/></a>
+<a target="_blank"> <img src="https://skillicons.dev/icons?i=ps" title="Adobre Photoshop" width="30" height="30"/></a>
 <a target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" title="Adobe Illustrator" width="30" height="30"/></a>
 <a target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" title="Pacote Office/Excel" width="30" height="30"/> </a>
 
@@ -41,7 +43,7 @@
 <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=saamukai&show_icons=true&theme=merko"/>
 </div>
 
-<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Me encontre nas redes sociais</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Find me on social media</b>
 <p align="left">
  <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/samuel-jonathan-47689423b/">
@@ -55,11 +57,10 @@
 		     <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/saamukai">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> 
       </div>
-</p> -->
+</p>
 
 
 <!-- <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" width="30" height="30"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></a>
 <a target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a>
 -->
